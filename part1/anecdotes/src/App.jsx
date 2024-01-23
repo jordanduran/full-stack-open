@@ -33,8 +33,6 @@ const App = () => {
     setVotes(copy);
   };
 
-  console.log(votes);
-
   return (
     <div>
       <AnecdoteOfTheDay
